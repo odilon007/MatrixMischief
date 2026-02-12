@@ -6,9 +6,9 @@
 
 **“What if I didn’t use NumPy… and suffered a little for knowledge?”**
 
-This project is educational, slightly chaotic, and mathematically responsible*.
+**This project is educational, slightly chaotic, and mathematically responsible**.
 
-\*Most of the time.
+Most of the time.
 
 ---
 
